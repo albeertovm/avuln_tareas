@@ -29,6 +29,9 @@ eip            0x565561e0       0x565561e0 <main>
 #### Tarea 4:
 Contestar el cuestionario https://forms.gle/hs99n8uku8FU84xc7
 
+#### Tarea 5:
+Investigar funciones vulnerables a desbordamientos de buffer (Buffer overflow) , dar una descripcion de cada una de estas funciones y una funcion similar segura.
+
 ## Practicas
 #### Practica 1  
 Generar un programa que cifre una cadena con al menos  5 instrucciones de ensamblador distintas, al menos una de  las instrucciones debe ser SHR o SHL con un corrimiento  mínimo de 3.  
